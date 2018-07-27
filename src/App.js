@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import client from "./apolloClient"
 
 class App extends Component {
   render() {
